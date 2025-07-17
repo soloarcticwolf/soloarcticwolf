@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂️ I'm a web and app developer primarily work with fullstack applications. <br>I've been working with javascript for over 4-5 years. <br><br>🌐 👉 https://production--sanwar-hussain.netlify.app/<br>
+🙋‍♂️ I'm a web and app developer primarily work with fullstack applications. <br>I've been working with javascript for over 5 years. <br><br>🌐 👉 https://production--sanwar-hussain.netlify.app/<br>
 
 
 ## 🌐 Socials:
