@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂️ I'm a web and app developer primarily work with fullstack applications. <br>I've been working with javascript for over 5 years. <br><br>🌐 👉 https://sanwarhussain.vercel.app/<br>
+🙋‍♂️ I'm a web and app developer primarily work with fullstack applications and ai rag pipelines. <br>I've been working with javascript for over 6 years. <br><br>🌐 👉 https://sanwarhussain.vercel.app/<br>
 
 
 ## 🌐 Socials:
