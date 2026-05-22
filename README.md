@@ -12,7 +12,7 @@ I build production-grade AI systems and full-stack platforms — from autonomous
 
 | Project | What it does | Stack |
 |---|---|---|
-| **AdShot AI** | 7-node LangGraph agentic pipeline. One business URL → researched, scripted, voiced, and rendered video ad — fully autonomous. | TypeScript, Bun, LangGraph, Gemini, ElevenLabs, Shotstack, Pinecone, GCP |
+| **Marg** | Community sourced, Civic Tech / Indoor Wayfinding & Navigation | TypeScript, Bun, Gemini, Pinecone, GCP | https://gomarg.in |
 | **CrewPilot** | Centralized ops platform for managing people, assets, maintenance, and tasks inside an organization — with an AI operational assistant layer. | Node.js, React, MongoDB, REST API | https://crewpilot.pro/
 
 ---
